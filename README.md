@@ -1,8 +1,8 @@
 project of covid_toy
 Project title= Covid_toy
-Introduction
+Introduction :
 This is a symtoms-based predictive model was proposed to predict COVID-19 based on the symtoms.
-Project prosses
+Project prosses.
 we created a project in which rules were created and used as input.
 then this data were used as raw data.Then feature selection took place as a part of proccecing data.The data were divided into training data(80%)and test(20%),usually know as train test split procces.Training data were used to train ML classifier that we used in the model,and test data were used to test that classifier in terms of accuracy recevied over a predefined  unseen portion.
 Conclusion
